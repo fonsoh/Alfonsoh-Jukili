@@ -62,3 +62,4 @@ main()
     getAverage(p,5); 
 
 } 
+
